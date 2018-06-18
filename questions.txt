@@ -6,22 +6,52 @@ Q3)Largest gap in an array
 
 Q4)Minimum product subset of an array
 
-create a balanced bst from a sorted array
+Q5)Create a balanced bst from a sorted array
 
-HashMap and Hashtable difference. How to make a HashMap synchronized
+Q6)HashMap and Hashtable difference. How to make a HashMap synchronized
 
-Failfast and Failsafe iterators
+Q7)Failfast and Failsafe iterators
 
-mirroring of a bst
+Q8)Mirroring of a bst
 
-coin change problem
+Q9)Coin change problem
 
-ternary search algorithm
+Q10)Ternary search algorithm.
 
-Paint a fence with adjacent fences of the same color
+Q11)Paint a fence with adjacent fences of the same color
 
-What is string interning. Show with an example.
+Q12)What is String Interning. Show with an example.
 
-What are ADTs? Name a few ADTs
+Q13)What are ADTs? Name a few ADTs
 
-What are disadvantages of Linked Lists?
+Q14)What are disadvantages of Linked Lists?
+
+Q15)Check whether an array is sorted using recursion
+
+Q16)Generate all bit strings from array of size N. If N = 4, then generate like [0,0,0,0],[0,1,0,0]...[1,1,1,1]
+
+Q17)Write the steps to solve the Tower of Hanoi problem.
+
+Q18)Optimal placement of 8 queens on the chessboard.
+
+Q19)Starting from (x,y) on chessboard, find out the number of ways a horse can traverse each square on the board exactly once.
+
+Q20)What the the various thread states? What is the difference between wait and sleep methods
+
+Q21)Why thread sync methods are in the Object class?
+
+Q22)What is class loading? What are the different types of class loaders?
+
+Q23)Write a program to print a NxN matrix spirally from center to outwards.
+
+Q24)5 pirates 100 gold coins problem
+
+Q25)Poisoned wine and 1000 prisoners problem
+
+Q26)10 Pack cigarettes and weight anomaly problem
+
+Q27)Write a program to validate an IP address
+
+Q28)Write an Employee pojo. Create a collection out of it. Then sort the collection based on certain criterias which will be dynamically passed.
+
+Q29)
