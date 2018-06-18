@@ -65,4 +65,6 @@ Q30)Is this code valid?
 		A a = new A();
 	}
 
-Q31)
+Q31)Reverse a singly linked list in place recursively.
+
+Q32)
