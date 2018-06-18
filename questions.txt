@@ -54,4 +54,15 @@ Q27)Write a program to validate an IP address
 
 Q28)Write an Employee pojo. Create a collection out of it. Then sort the collection based on certain criterias which will be dynamically passed.
 
-Q29)
+Q29)While creating a LinkedList node class, how can we put the reference of the next pointer to be the same class ever before it is defined? Answer is forward references are allowed in java.
+
+Q30)Is this code valid?
+	class A{
+		B b = new B();
+	}
+	
+	class B{
+		A a = new A();
+	}
+
+Q31)
