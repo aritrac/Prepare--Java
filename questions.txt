@@ -1,0 +1,27 @@
+Q1)Generate a multi threaded LRU cache
+
+Q2)What is the bounded buffer problem?
+
+Q3)Largest gap in an array
+
+Q4)Minimum product subset of an array
+
+create a balanced bst from a sorted array
+
+HashMap and Hashtable difference. How to make a HashMap synchronized
+
+Failfast and Failsafe iterators
+
+mirroring of a bst
+
+coin change problem
+
+ternary search algorithm
+
+Paint a fence with adjacent fences of the same color
+
+What is string interning. Show with an example.
+
+What are ADTs? Name a few ADTs
+
+What are disadvantages of Linked Lists?
